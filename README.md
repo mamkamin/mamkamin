@@ -1,9 +1,28 @@
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,nodejs,express,nextjs" />
+# Hi, I'm Min 👋
+
+Ever since I started programming in 2019, I've been loving it. This Github account
+is just one side of me.
+
+---
+
+## Tech Stack
+
+### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css" />
 </p>
-<p align="center">
+
+### Frameworks & Libraries
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,express,nodejs" />
+</p>
+
+### Databases
+<p>
   <img src="https://skillicons.dev/icons?i=postgres" />
 </p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github" />
+
+### Development Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,windows,vim,emacs" />
 </p>
