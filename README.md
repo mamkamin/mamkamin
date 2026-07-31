@@ -24,5 +24,5 @@ is just one side of me.
 
 ### Development Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,linux,windows,vim,emacs" />
+  <img src="https://skillicons.dev/icons?i=git,github,linux,windows,vim,emacs,vscode" />
 </p>
