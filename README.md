@@ -1,3 +1,10 @@
+# Hi, I'm Min 👋
+
+Ever since I started programming in 2019, I've been loving it. This Github account
+is just one side of me.
+
+---
+
 ## Tech Stack
 
 ### Languages
