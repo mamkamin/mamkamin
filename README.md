@@ -1,10 +1,3 @@
-# Hi, I'm Min 👋
-
-Ever since I started programming in 2019, I've been loving it. This Github account
-is just one side of me.
-
----
-
 ## Tech Stack
 
 ### Languages
@@ -20,6 +13,11 @@ is just one side of me.
 ### Databases
 <p>
   <img src="https://skillicons.dev/icons?i=postgres" />
+</p>
+
+### Cloud & DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=gcp,docker" />
 </p>
 
 ### Development Tools
