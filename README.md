@@ -9,7 +9,7 @@ is just one side of me.
 
 ### Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css" />
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,python" />
 </p>
 
 ### Frameworks & Libraries
