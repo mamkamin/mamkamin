@@ -9,7 +9,7 @@ is just one side of me.
 
 ### Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,python" />
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,python,php" />
 </p>
 
 ### Frameworks & Libraries
@@ -19,7 +19,7 @@ is just one side of me.
 
 ### Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql" />
 </p>
 
 ### Cloud & DevOps
